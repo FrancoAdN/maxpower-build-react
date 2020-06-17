@@ -4,8 +4,8 @@
   "description": "Maxpower page react build repo",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "deploy": "nohup node server.js &"
+    "start": "node page.js",
+    "deploy": "nohup node page.js &"
   },
   "repository": {
     "type": "git",
