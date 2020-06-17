@@ -1,0 +1,23 @@
+{
+  "name": "maxpower-build-react",
+  "version": "1.0.0",
+  "description": "Maxpower page react build repo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "deploy": "nohup node server.js &"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoAdN/maxpower-build-react.git"
+  },
+  "author": "Franco di Nápoli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrancoAdN/maxpower-build-react/issues"
+  },
+  "homepage": "https://github.com/FrancoAdN/maxpower-build-react#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
